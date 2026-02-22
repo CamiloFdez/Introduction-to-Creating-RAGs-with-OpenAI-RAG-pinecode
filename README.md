@@ -102,6 +102,9 @@ This will:
 - Split it into chunks
 - Generate embeddings
 
+Here is the image of the ingestion process:
+![image](https://github.com/CamiloFdez/Introduction-to-Creating-RAGs-with-OpenAI-RAG-pinecode/blob/main/images/ingestPy.PNG)
+
 ---
 
 ## RAG Pipeline
@@ -111,6 +114,9 @@ python src/rag.py
 ```
 Example query: "What is the main topic of the document?"
 Expected output: A generated answer based on the retrieved context from Pinecone.
+
+Here is the image of the RAG process:
+![image](https://github.com/CamiloFdez/Introduction-to-Creating-RAGs-with-OpenAI-RAG-pinecode/blob/main/images/ragPy.PNG)
 
 ---
 
