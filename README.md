@@ -49,6 +49,8 @@ The architecture and workflow remain identical to an OpenAI-based RAG:
 - Vector similarity search
 - Context-augmented generation
 
+Although this we made a notebook with the OpenAI implementation, we decided to keep this repository focused on the open-source version for simplicity and accessibility. And as you will see in the notebook this works just as well as the OpenAI version, with the added benefit of being free to use and modify.
+
 ---
 
 ## Project Structure
